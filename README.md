@@ -41,4 +41,8 @@ Date,Steps,Calories,SleepHours,HeartRate
 ## live link                                                                          
 - <a href="https://health-and-fitness-dashboard-pfhdu7be4jx4yg5dex4tns.streamlit.app/">Website link</a>
 ## images of website
-- <a href="https://github.com/bhavya30122005/Health-and-fitness-dashboard/blob/main/health%20dashboard.pdf">Images<a>
+- <a href="https://github.com/bhavya30122005/Health-and-fitness-dashboard/blob/main/health%20dashboard-images-0.jpg">Image 0</a>
+- <a href="https://github.com/bhavya30122005/Health-and-fitness-dashboard/blob/main/health%20dashboard-images-1.jpg">Image 1</a>
+- <a href="https://github.com/bhavya30122005/Health-and-fitness-dashboard/blob/main/health%20dashboard-images-2.jpg">Image 2</a>
+- <a href="https://github.com/bhavya30122005/Health-and-fitness-dashboard/blob/main/health%20dashboard-images-3.jpg">Image 3</a>
+- <a href="https://github.com/bhavya30122005/Health-and-fitness-dashboard/blob/main/health%20dashboard-images-4.jpg">Image 4</a>
