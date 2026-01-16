@@ -37,6 +37,8 @@ Date,Steps,Calories,SleepHours,HeartRate
 2026-01-03,10000,280,8.1,70
 
 ## github link
-- <a href="https://github.com/bhavya30122005/health-and-fitness-dashboard"> Data</a>
+- <a href="https://github.com/bhavya30122005/health-and-fitness-dashboard">Github </a>
 ## live link                                                                          
-- <a href="https://health-and-fitness-dashboard-pfhdu7be4jx4yg5dex4tns.streamlit.app/">Website </a>
+- <a href="https://health-and-fitness-dashboard-pfhdu7be4jx4yg5dex4tns.streamlit.app/">Website link</a>
+## images of website
+- <a href="https://github.com/bhavya30122005/Health-and-fitness-dashboard/blob/main/health%20dashboard.pdf">Images<a>
