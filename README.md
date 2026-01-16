@@ -1,2 +1,37 @@
-# Health-and-fitness-dashboard
-The Health and Fitness Dashboard is a Streamlit-based web application that allows users to monitor and visualize their daily fitness data. The dashboard calculates BMI using user-provided height and weight, classifies health status, and displays interactive charts for steps, calories burned, sleep hours, and heart rate using uploaded CSV data.  I
+#  Health and Fitness Dashboard
+
+A simple and interactive **Health & Fitness Dashboard** built using **Streamlit**, **Pandas**, and **Plotly**.  
+This application helps users track fitness metrics, calculate BMI, and visualize daily health data.
+
+---
+
+##  Features
+
+-  **BMI Calculation**
+  - Calculates BMI using height and weight
+  - Classifies health status (Underweight, Normal, Overweight, Obese)
+
+-  **CSV Data Upload**
+  - Upload daily fitness data in CSV format
+  - Displays data in a table
+
+-  **Interactive Visualizations**
+  - Steps over time
+  - Calories burned over time
+  - Sleep hours (bar chart)
+  - Heart rate trend
+
+-  **User-Friendly Interface**
+  - Sidebar inputs
+  - Responsive layout
+  - Interactive Plotly charts
+
+---
+
+##  CSV File Format
+
+Your CSV file must contain the following columns:
+
+```csv
+Date,Steps,Calories,SleepHours,HeartRate
+
